@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO313: Population Ecology"
+course_description: "An investigation of the interactions among organisms and their environment that influence and regulate population size. Covers forms of intrinsic population growth and factors affecting that growth, ecological relationships, and the means through which populations can be managed to maintain species and biodiversity."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Population Regulation: Intrinsic Factors and Environmental
 Pressures That Affect Population Size** <span id="3"></span> 
 *In this unit, we will develop an understanding of natural population

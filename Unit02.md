@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO313: Population Ecology"
+course_description: "An investigation of the interactions among organisms and their environment that influence and regulate population size. Covers forms of intrinsic population growth and factors affecting that growth, ecological relationships, and the means through which populations can be managed to maintain species and biodiversity."
+next: ../Unit02
+previous: ../Unit01
+---
 **Unit 2: Population Fundamentals: Describing and Quantifying
 Populations** <span id="2"></span> 
 *In this unit, we will learn mathematical models to describe basic,
