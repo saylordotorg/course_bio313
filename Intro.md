@@ -136,3 +136,4 @@ following materials:
 - [Unit 3](https://legacy.saylor.org/bio313/Unit03/)
 - [Unit 4](https://legacy.saylor.org/bio313/Unit04/)
 - [Unit 5](https://legacy.saylor.org/bio313/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO313/BIO313-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO313/BIO313-FinalExam-Answers.html)
