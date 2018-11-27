@@ -99,7 +99,7 @@ school algebra and high school calculus are recommended.
 I](http://www.saylor.org/courses/ma101/).   
   
  √    Have read the [Saylor Student
-Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
+Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
   
  √    Have completed the following courses listed in the Core Program
 for biology: [BIO101: Introduction to Molecular and Cellular
