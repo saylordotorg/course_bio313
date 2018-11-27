@@ -247,7 +247,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: The Saylor Foundation's “Foundation Species and Dominant
     Species”**
     Link: The Saylor Foundation's “[Foundation Species and Dominant
-    Species](http://www.saylor.org/site/wp-content/uploads/2011/07/BIO313-Foundation-Species-and-Dominant-Species-FINAL1.pdf)”
+    Species](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO313-Foundation-Species-and-Dominant-Species-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF.  Pay special attention
@@ -623,7 +623,7 @@ Growth”** <span id="1.7.1"></span> 
 -   **Reading: The Saylor Foundation: “Effects of Adaptation on
     Population Growth”**
     Link: The Saylor Foundation: “[Effects of Adaptation on Population
-    Growth](http://www.saylor.org/site/wp-content/uploads/2011/06/BIO313-Effects-of-Adaptation-on-Population-Growth-FINAL.pdf)”
+    Growth](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO313-Effects-of-Adaptation-on-Population-Growth-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF, which explains how
@@ -657,7 +657,7 @@ Growth”** <span id="1.7.1"></span> 
 **1.8.1 Reproductive Strategies** <span id="1.8.1"></span> 
 -   **Reading: The Saylor Foundation's "Reproductive Strategies"**
     Link: The Saylor Foundation's "[Reproductive
-    Strategies](http://www.saylor.org/site/wp-content/uploads/2011/07/BIO313-Reproductive-Strategies-FINAL.pdf)"
+    Strategies](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO313-Reproductive-Strategies-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read this entire PDF.  Darwin’s theory of
