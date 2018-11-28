@@ -35,7 +35,7 @@ Upon successful completion of this unit, students will be able to:
 **4.1 Importance of Conservation** <span id="4.1"></span> 
 -   **Reading: The Saylor Foundation's “Importance of Conservation”**
     Link: The Saylor Foundation's “[Importance of
-    Conservation](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO313-Importance-of-Conservation-v2-FINAL-DEMARY.pdf)”
+    Conservation](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/BIO313-Importance-of-Conservation-v2-FINAL-DEMARY.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF, which discusses why
@@ -81,7 +81,7 @@ Upon successful completion of this unit, students will be able to:
 **4.2.3 Transect Lines** <span id="4.2.3"></span> 
 -   **Reading: The Saylor Foundation: “Transect Lines”**
     Link: The Saylor Foundation: “[Transect
-    Lines](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO313-Transect-Lines-FINAL.pdf)”
+    Lines](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/BIO313-Transect-Lines-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF, which explains the
@@ -164,7 +164,7 @@ id="4.3.1"></span> 
 -   **Reading: The Saylor Foundation: “Applications of Population
     Viability Analyses”**
     Link: The Saylor Foundation: “[Applications of Population Viability
-    Analyses](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO313-Applications-of-Population-Viability-Analysis-FINAL.pdf)”
+    Analyses](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/BIO313-Applications-of-Population-Viability-Analysis-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF, which discusses how
@@ -185,7 +185,7 @@ Management)** <span id="4.4"></span> 
     Regulation (Population Management)”**
     Link: The Saylor Foundation: “[Methods of Artificial Population
     Regulation (Population
-    Management)](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO313-Artificial-Population-Regulation-FINAL.pdf)”
+    Management)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/BIO313-Artificial-Population-Regulation-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF, which discusses the
@@ -204,7 +204,7 @@ id="4.4.2"></span> 
 -   **Reading: The Saylor Foundation: “Resource Management Action
     Plan”**
     Link: The Saylor Foundation: “[Resource Management Action
-    Plan](https://resources.saylor.org/archived/wp-content/uploads/2011/12/SAYLOR.ORG-BIO313-RESOURCE_MANAGEMENT_ACTION_PLAN.pdf)”
+    Plan](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/SAYLOR.ORG-BIO313-RESOURCE_MANAGEMENT_ACTION_PLAN.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF for instructions on
