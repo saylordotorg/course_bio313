@@ -198,7 +198,7 @@ Upon successful completion of this unit, students will be able to:
 **2.5 Equilibrium** <span id="2.5"></span> 
 -   **Reading: The Saylor Foundation: “Equilibrium”**
     Link: The Saylor Foundation:
-    “[Equilibrium](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO313-Equilibrium-FINAL.pdf)”
+    “[Equilibrium](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/BIO313-Equilibrium-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF to understand how
@@ -207,7 +207,7 @@ Upon successful completion of this unit, students will be able to:
 **2.6 Population Cycles** <span id="2.6"></span> 
 -   **Reading: The Saylor Foundation's “Population Cycles”**
     Link: The Saylor Foundation's “[Population
-    Cycles](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO313-Population-Cycles-v2-FINAL-Demary.pdf)”
+    Cycles](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/BIO313-Population-Cycles-v2-FINAL-Demary.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF.  Real populations
@@ -269,7 +269,7 @@ Upon successful completion of this unit, students will be able to:
 **2.8 Effective Population Size** <span id="2.8"></span> 
 -   **Reading: The Saylor Foundation: “Effective Population Size”**
     Link: The Saylor Foundation: “[Effective Population
-    Size](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO313-EffectivePopulationSize-FINAL.pdf)”
+    Size](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/BIO313-EffectivePopulationSize-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF, which explains the

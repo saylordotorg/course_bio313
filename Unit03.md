@@ -256,7 +256,7 @@ id="3.4.1.1"></span> 
 **3.4.1.2 Competitive Release** <span id="3.4.1.2"></span> 
 -   **Reading: The Saylor Foundation: “Competitive Release”**
     Link: The Saylor Foundation: “[Competitive
-    Release](https://resources.saylor.org/archived/wp-content/uploads/2011/06/BIO313-CompetitiveRelease-FINAL.pdf)”
+    Release](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/BIO313-CompetitiveRelease-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF, which discusses the
@@ -386,7 +386,7 @@ id="3.5.2"></span> 
     Species in a New Habitat ”**
     Link: The Saylor Foundation: “[Establishment of an Invasive Species
     in a New
-    Habitat](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO313-Establishment-of-an-Invasive-Species-in-a-New-Habitat-FINAL.pdf)”
+    Habitat](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/BIO313-Establishment-of-an-Invasive-Species-in-a-New-Habitat-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF, which discusses how the
@@ -403,7 +403,7 @@ Size** <span id="3.6"></span> 
     Activities That Affect Population Size”**
     Link: The Saylor Foundation's “[Environmental Pressures: Human
     Activities That Affect Population
-    Size](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO313-Environmental-Pressure-FINAL.pdf)”
+    Size](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/BIO313-Environmental-Pressure-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read this entire PDF about human activities
